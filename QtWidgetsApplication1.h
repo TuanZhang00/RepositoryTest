@@ -13,6 +13,7 @@ public:
 
 public:
     void B_Func1();
+    void C_Func1();
 private:
     Ui::QtWidgetsApplication1Class ui;
 };

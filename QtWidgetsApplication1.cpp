@@ -15,3 +15,7 @@ void QtWidgetsApplication1::B_Func1()
 {
 }
 
+void QtWidgetsApplication1::C_Func1()
+{
+}
+
