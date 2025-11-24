@@ -1,0 +1,70 @@
+# Visual Studio 2022 特定文件
+*.vcxproj.user
+*.vcxproj.filters.user
+*.suo
+*.sdf
+*.opensdf
+*.db
+*.tlog
+*.lastbuildstate
+*.ipch
+*.iobj
+*.ipdb
+*.idb
+*.pdb
+*.ilk
+*.log
+*.obj
+*.res
+*.sbr
+*.tmp
+
+# VS 2022 缓存和设置目录
+.vs/
+.vsconfig
+.VC.db
+
+# 构建输出目录
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Qt 相关生成文件
+moc_*
+qrc_*
+ui_*
+*.qm
+Makefile*
+*_plugin_import.cpp
+*.qmlc
+*.jaml
+
+# Qt 项目用户设置
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+
+# 可执行文件
+*.exe
+*.dll
+*.lib
+
+# 临时文件
+*.tmp
+*.temp
+
+# 系统文件
+Thumbs.db
+ehthumbs.db
+.DS_Store
