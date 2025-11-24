@@ -11,3 +11,7 @@ QtWidgetsApplication1::QtWidgetsApplication1(QWidget *parent)
 QtWidgetsApplication1::~QtWidgetsApplication1()
 {}
 
+void QtWidgetsApplication1::B_Func1()
+{
+}
+

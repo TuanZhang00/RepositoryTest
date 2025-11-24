@@ -11,6 +11,8 @@ public:
     QtWidgetsApplication1(QWidget *parent = nullptr);
     ~QtWidgetsApplication1();
 
+public:
+    void B_Func1();
 private:
     Ui::QtWidgetsApplication1Class ui;
 };
